@@ -77,6 +77,7 @@ public class sistemaInvestigacaoCSI {
 		System.out.println(">> Encerrando sistema...");
 		
 		scan.close();
+		return;
 	}
 
 }
