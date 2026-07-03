@@ -20,6 +20,7 @@ public class verificarLetraMouF {
 		}
 		
 		scan.close();
+		return;
 
 	}
 

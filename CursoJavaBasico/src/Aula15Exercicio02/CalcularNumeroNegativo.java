@@ -19,6 +19,7 @@ public class CalcularNumeroNegativo {
 
 
 		scan.close();
+		return;
 
 	}
 

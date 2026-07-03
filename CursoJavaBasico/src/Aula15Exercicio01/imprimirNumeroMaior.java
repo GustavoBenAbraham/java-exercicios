@@ -22,6 +22,7 @@ public class imprimirNumeroMaior {
 
 
 		scan.close();
+		return;
 
 	}
 
