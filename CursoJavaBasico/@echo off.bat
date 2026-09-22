@@ -5,7 +5,7 @@ echo      ENVIANDO EXERCICIO PARA GITHUB
 echo ========================================
 
 :: Vai para a pasta do repositorio
-cd /d "C:\Users\helle\OneDrive\Área de Trabalho\curso-java-basico\CursoJavaBasico"
+cd /d "C:\Users\AMDOCS\GitHub\java-exercicios\CursoJavaBasico"
 
 echo.
 set /p MSG="Descreva o que voce adicionou: "
