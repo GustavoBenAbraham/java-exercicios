@@ -11,7 +11,11 @@ public class VariaveisBoolean {
 		System.out.println("O valor de verdadeiro é " + verdadeiro);
 		System.out.println("O valor de faso é " + falso);
 		
+<<<<<<< HEAD
 
+=======
+		Scanner
+>>>>>>> 76a8efa53deb62f46d3d38ca8e7d590e3c616e7a
 
 	}
 

@@ -17,7 +17,15 @@ public class leitorDeNumeros {
 		System.out.println("Digite mais um número: ");
 		double n3 = scan.nextDouble();
 		
+<<<<<<< HEAD
 
+=======
+		if (n1 >=) {
+			
+		} else {
+
+		}
+>>>>>>> 76a8efa53deb62f46d3d38ca8e7d590e3c616e7a
 
 		
 		
@@ -29,3 +37,7 @@ public class leitorDeNumeros {
 	}
 
 }
+<<<<<<< HEAD
+=======
+;
+>>>>>>> 76a8efa53deb62f46d3d38ca8e7d590e3c616e7a
