@@ -1,3 +1,5 @@
+**Português** | [English](README.en.md)
+
 # ☕ Java Exercícios — Gustavo Ben Abraham
 
 Repositório com exercícios e práticas de Java desenvolvidos durante meus estudos.  
@@ -40,7 +42,7 @@ Para facilitar o envio dos exercícios ao GitHub, desenvolvi um script `.bat` qu
 ### 📥 Como usar o script
 
 **1. Faça o download do arquivo:**  
-Baixe o arquivo (./enviar-para-github.bat)](https://github.com/GustavoBenAbraham/java-exercicios/blob/main/CursoJavaBasico/%40echo%20off.bat) deste repositório.
+Baixe o arquivo [script de envio](https://github.com/GustavoBenAbraham/java-exercicios/blob/main/CursoJavaBasico/%40echo%20off.bat) deste repositório.
 
 **2. Configure o caminho da sua pasta:**  
 Abra o arquivo com o Bloco de Notas e edite a linha abaixo com o caminho do **seu** repositório:
@@ -64,7 +66,7 @@ git pull origin main   → Sincroniza com o GitHub antes de enviar
 git push origin main   → Envia tudo para o repositório
 ```
 
-> 💡 O `git pull` antes do `push` evita erros de conflito — esse é o segredo para nunca ter o erro `rejected` no terminal!
+> 💡 O `git pull` antes do `push` sincroniza alterações, mas ainda pode gerar conflitos. Resolva os conflitos antes de enviar.
 
 ---
 
